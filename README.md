@@ -1,5 +1,7 @@
 # CareerPilot AI
 
+# Live at: https://careerpilot-ai-eta-ten.vercel.app/ 
+
 A local-first, AI-assisted job application workspace built with **Next.js (App Router), React, TypeScript, Tailwind CSS, and Google's Gemini API**.
 
 CareerPilot helps you discover Swiss job listings, paste vacancies from other websites, compare a vacancy with your confirmed experience, prepare English/German CVs and motivation letters, and manage the application lifecycle.
